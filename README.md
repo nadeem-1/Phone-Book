@@ -1,5 +1,6 @@
 ## About
 It is basically a Phone Book Web Application using Node Express and MySQL as its Database.
+In this user can add contact, update contact, delete contact and user can also search by using name and email address.
 
 ## Install All the Dependencies
 ```
